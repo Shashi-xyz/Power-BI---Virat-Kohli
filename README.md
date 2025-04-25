@@ -1,4 +1,4 @@
-Virat Kohli Matches Records Analysis Dashboard (POWER BI + MYSQL)
+# Virat Kohli Matches Records Analysis Dashboard (POWER BI + MYSQL)
 
 
 •	Created an interactive Power BI dashboard to analyze Virat Kohli’s performance across 250+ matches by runs, grounds, opponents, and formats.
